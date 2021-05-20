@@ -1,1 +1,118 @@
 
+<!DOCTYPE html>
+<title>Snippets.html | Scratch Snippets | Functional Code Snippets for Scratch</title>
+<link rel="shortcut icon" href="favicon.ico" />
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+  font-size: 28px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.header {
+  background-color: #f8a738;
+  color: white;
+  padding: 30px;
+  text-align: center;
+}
+#navbar {
+  overflow: hidden;
+  background-color: #4e97ff;
+}
+#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+#navbar a:hover {
+  background-color: #4688e6;
+  color: white;
+}
+#navbar a.active {
+  background-color: #4e97ff;
+  color: white;
+}
+.content {
+  padding: 16px;
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.sticky + .content {
+  padding-top: 60px;
+}
+</style>
+
+</head>
+<body>
+<div class="header">
+  <h2>Scratch Snippets</h2>
+  <p>Functional Code Snippets for Scratch</p>
+</div>
+<div id="navbar">
+  <img src="/assets/oie_PENOyqF0lL31.png" alt="logo" style="width:103px;height:44px;">
+  <a class="active" href="https://scratch-snippets.github.io">Home</a>
+  <a href="javascript:void(0)">Snippets</a>
+</div>
+<div class="content">
+  <h3>Sticky Navigation Example</h3>
+  <p>The navbar will stick to the top when you reach its scroll
+position.</p>
+  <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum
+definitiones no quo, maluisset concludaturque et eum, altera fabulas
+ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum.
+Affert laboramus repudiandae nec et. Inciderint efficiantur his ad.
+Eum no molestiae voluptatibus.</p>
+  <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum
+definitiones no quo, maluisset concludaturque et eum, altera fabulas
+ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum.
+Affert laboramus repudiandae nec et. Inciderint efficiantur his ad.
+Eum no molestiae voluptatibus.</p>
+  <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum
+definitiones no quo, maluisset concludaturque et eum, altera fabulas
+ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum.
+Affert laboramus repudiandae nec et. Inciderint efficiantur his ad.
+Eum no molestiae voluptatibus.</p>
+  <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum
+definitiones no quo, maluisset concludaturque et eum, altera fabulas
+ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum.
+Affert laboramus repudiandae nec et. Inciderint efficiantur his ad.
+Eum no molestiae voluptatibus.</p>
+  <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum
+definitiones no quo, maluisset concludaturque et eum, altera fabulas
+ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum.
+Affert laboramus repudiandae nec et. Inciderint efficiantur his ad.
+Eum no molestiae voluptatibus.</p>
+  <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum
+definitiones no quo, maluisset concludaturque et eum, altera fabulas
+ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum.
+Affert laboramus repudiandae nec et. Inciderint efficiantur his ad.
+Eum no molestiae voluptatibus.</p>
+  <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum
+definitiones no quo, maluisset concludaturque et eum, altera fabulas
+ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum.
+Affert laboramus repudiandae nec et. Inciderint efficiantur his ad.
+Eum no molestiae voluptatibus.</p>
+</div>
+<script>
+window.onscroll = function() {myFunction()};
+ 
+ var navbar = document.getElementById("navbar");
+var sticky = navbar.offsetTop;
+function myFunction() {
+  if (window.pageYOffset >= sticky) {
+    navbar.classList.add("sticky")
+  } else {
+    navbar.classList.remove("sticky");
+  }
+} </script>
+</body>
+</html>
