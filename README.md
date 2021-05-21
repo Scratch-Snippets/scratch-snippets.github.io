@@ -1,3 +1,3 @@
 # Scratch Snippets | Functional Code Snippets for Scratch
 
-[Scratch Snippets Website!](scratch-snippets.github.io)
+[Scratch Snippets Website!](https://scratch-snippets.github.io)
