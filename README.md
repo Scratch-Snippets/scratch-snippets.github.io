@@ -1,6 +1,6 @@
 # Scratch Snippets | Functional Code Snippets for Scratch
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [Scratch Snippets Website!](https://scratch-snippets.github.io)
@@ -15,6 +15,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://scratch.mit.edu/users/brourbeinsus/"><img src="https://avatars.githubusercontent.com/u/79854224?v=4?s=100" width="100px;" alt=""/><br /><sub><b>brourbeinsus</b></sub></a><br /><a href="#projectManagement-brourbeinsus" title="Project Management">📆</a></td>
+    <td align="center"><a href="https://www.youtube.com/channel/UCjVX6g54M1dFtliUGy4kvsw/videos"><img src="https://avatars.githubusercontent.com/u/78216950?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Shadowbreaker GD</b></sub></a><br /><a href="#projectManagement-ShadowbreakerGD" title="Project Management">📆</a></td>
   </tr>
 </table>
 
