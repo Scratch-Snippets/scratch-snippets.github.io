@@ -14,7 +14,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://scratch.mit.edu/users/brourbeinsus/"><img src="https://avatars.githubusercontent.com/u/79854224?v=4?s=100" width="100px;" alt=""/><br /><sub><b>brourbeinsus</b></sub></a><br /><a href="https://github.com/Scratch-Snippets/scratch-snippets.github.io/commits?author=brourbeinsus" title="Tests">⚠️</a> <a href="https://github.com/Scratch-Snippets/scratch-snippets.github.io/commits?author=brourbeinsus" title="Code">💻</a></td>
-    <td align="center"><a href="https://www.youtube.com/channel/UCjVX6g54M1dFtliUGy4kvsw/videos"><img src="https://avatars.githubusercontent.com/u/78216950?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Shadowbreaker GD</b></sub></a><br /><a href="https://github.com/Scratch-Snippets/scratch-snippets.github.io/commits?author=ShadowbreakerGD" title="Tests">⚠️</a> <a href="https://github.com/Scratch-Snippets/scratch-snippets.github.io/commits?author=ShadowbreakerGD" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.youtube.com/channel/UCjVX6g54M1dFtliUGy4kvsw/videos"><img src="https://avatars.githubusercontent.com/u/78216950?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Shadowbreaker GD</b></sub></a><br /><a href="https://github.com/Scratch-Snippets/scratch-snippets.github.io/commits?author=ShadowbreakerGD" title="Tests">⚠️</a> <a href="https://github.com/Scratch-Snippets/scratch-snippets.github.io/commits?author=ShadowbreakerGD" title="Code">💻</a> <a href="#ideas-ShadowbreakerGD" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
