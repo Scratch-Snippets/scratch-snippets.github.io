@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "brourbeinsus",
+      "name": "brourbeinsus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79854224?v=4",
+      "profile": "https://scratch.mit.edu/users/brourbeinsus/",
+      "contributions": [
+        "test",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "scratch-snippets.github.io",
+  "projectOwner": "Scratch-Snippets",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
