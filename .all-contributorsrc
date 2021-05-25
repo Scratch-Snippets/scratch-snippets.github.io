@@ -24,6 +24,15 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "NotDiamondZ",
+      "name": "Zack",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83427897?v=4",
+      "profile": "https://github.com/NotDiamondZ",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
