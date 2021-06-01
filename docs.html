@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<title>docs | Scratch Snippets | Functional Code Snippets for Scratch</title>
+<html>
+<head>
+<link rel="apple-touch-icon" sizes="180x180" href="assets/favicon_package_v0.16 2/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon_package_v0.16 2/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/favicon_package_v0.16 2/favicon-16x16.png">
+<link rel="manifest" href="assets/favicon_package_v0.16 2/site.webmanifest">
+<link rel="mask-icon" href="assets/favicon_package_v0.16 2/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+  font-size: 28px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.header {
+  background-color: #f8a738;
+  color: white;
+  padding: 30px;
+  text-align: center;
+}
+#navbar {
+  overflow: hidden;
+  background-color: #4e97ff;
+  box-shadow: rgba(0, 0, 0, 0.50) 0px 0px 10px;
+}
+#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 15px;
+}
+#navbar a:hover {
+  background-color: #4688e6;
+  color: white;
+}
+#navbar a.active {
+  background-color: #4e97ff;
+  color: white;
+}
+.content {
+  padding: 16px;
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.sticky + .content {
+  padding-top: 60px;
+}
+</style>
+
+</head>
+<body>
+<div id="navbar">
+  <img src="/assets/oie_PENOyqF0lL31.png" align="left" alt="logo" style="width:113px;height:44px;">
+  <a href="/"><strong>Home</strong></a>
+  <a href="snippets.html"><strong>Snippets</strong></a>
+  <a href="contributors.html"><strong>Contributors</strong></a>
+  <a href="docs.html"><strong>Docs</strong></a>
+</div>
+<div class="header">
+  <h2>Scratch Snippets</h2>
+  <p>Functional Code Snippets for Scratch</p>
+</div>
+
+<div class="content">
+  <h3>docs ✏</h3>
+  <h2>About</h2>
+  <p>Scratch Snippets is a website that has a list of functional code snippets for the <a href="https://scratch.mit.edu">Scratch Website</a></p>.
+  <p>We have 3 different kinds of snippets on our site: userscripts, user<strong>styles</strong> and bookmarklets!</p>
+</div>
+<script>
+window.onscroll = function() {myFunction()};
+ 
+ var navbar = document.getElementById("navbar");
+var sticky = navbar.offsetTop;
+function myFunction() {
+  if (window.pageYOffset >= sticky) {
+    navbar.classList.add("sticky")
+  } else {
+    navbar.classList.remove("sticky");
+  }
+} </script>
+</body>
+</html>
