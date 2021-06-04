@@ -4,6 +4,8 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [Scratch Snippets Website!](https://scratch-snippets.github.io)
 
+Feel free to request any userscripts, userstyles, or bookmarklets as a github issue, or you can pull request if your big brain enough.
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
